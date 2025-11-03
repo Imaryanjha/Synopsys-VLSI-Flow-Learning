@@ -41,5 +41,5 @@ This repository documents my hands-on learning journey of the **Synopsys Digital
 
 ---
 
-## 📂 Folder Overview
+
 
