@@ -1,4 +1,4 @@
-# 🧠 Synopsys VLSI Flow Learning
+# 🧠 VLSI EXPERT PVT. LTD X  Synopsys 3 DAYS WORKSHOP VLSI Flow Learning
 
 This repository documents my hands-on learning journey of the **Synopsys Digital Design Flow**, covering end-to-end RTL-to-GDSII stages — from **synthesis to STA and PnR**.
 
