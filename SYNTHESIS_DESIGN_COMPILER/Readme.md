@@ -31,6 +31,9 @@ The purpose of this flow is to understand how Design Compiler maps RTL logic to 
 │ └── log.txt # Design Compiler console log
 └── README.md
 ```
+---
+
+<img width="1000" height="572" alt="image" src="https://github.com/user-attachments/assets/d33361b4-9d15-4025-8ffa-f0280db7a7e6" />
 
 # 🔧 Synthesis Steps
 ## 1️⃣ Launch Design Compiler
