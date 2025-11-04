@@ -22,8 +22,7 @@ This repository documents my hands-on learning journey of the **Synopsys Digital
 | 1️⃣ | **Design Compiler** | Convert RTL → gate-level netlist |
 | 2️⃣ | **IC Compiler II** | Perform placement, CTS, and routing |
 | 3️⃣ | **PrimeTime** | Analyze setup & hold timing |
-| 4️⃣ | **Formality** | Verify equivalence between RTL and netlist |
-| 5️⃣ | **VCS** | Run simulation & generate waveforms |
+|  4️⃣ | **VCS** | Run simulation & generate waveforms |
 
 ---
 
