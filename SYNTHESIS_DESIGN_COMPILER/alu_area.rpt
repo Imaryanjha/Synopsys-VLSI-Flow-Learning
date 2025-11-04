@@ -1,0 +1,32 @@
+
+****************************************
+Report : area
+Design : alu
+Version: V-2023.12-SP4
+Date   : Mon Nov  3 18:04:50 2025
+****************************************
+
+Library(s) Used:
+
+    gtech (File: /usr/synopsys/syn/V-2023.12-SP4/libraries/syn/gtech.db)
+
+Number of ports:                           75
+Number of nets:                           123
+Number of cells:                           48
+Number of combinational cells:             39
+Number of sequential cells:                 2
+Number of macros/black boxes:               0
+Number of buf/inv:                         17
+Number of references:                       8
+
+Combinational area:                  0.000000
+Buf/Inv area:                        0.000000
+Noncombinational area:               0.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                     0.000000
+Total area:                 undefined
+
+Information: This design contains unmapped logic. (RPT-7)
+1
